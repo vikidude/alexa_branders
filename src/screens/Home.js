@@ -35,6 +35,11 @@ import Children9 from '../assets/images/children9.jpg';
 
 import Product from '../components/Product';
 
+import Mask1 from '../assets/images/mask_1 (1).jpg';
+import Mask2 from '../assets/images/mask_1 (2).jpg';
+import Mask3 from '../assets/images/mask_1 (4).jpg';
+import Mask4 from '../assets/images/mask_1 (3).jpg';
+
 export default class Home extends React.Component {
 
     constructor(props) {
@@ -77,42 +82,45 @@ export default class Home extends React.Component {
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src={FirstCloth}
+                            src={Mask1}
                             alt="First slide"
                         />
                         <Carousel.Caption>
-                            <h3>Assorted-color hanging clothes lot</h3>
+                            <h3>One Use Masks</h3>
                             {/* <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src={SecondCloth}
+                            src={Mask2}
                             alt="Third slide"
                         />
 
                         <Carousel.Caption>
-                            <h3>Hanged jeans lot</h3>
+                            <h3>Free Size</h3>
                             {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src={ThirtCloth}
+                            src={Mask3}
                             alt="Third slide"
                         />
 
                         <Carousel.Caption>
-                            <h3>Pile of blue denim jeans lot</h3>
+                            <h3 style={{color:'black'}}>3Ply Material</h3>
                             {/* <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p> */}
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
-
+                
+                <div style={{margin:'5%'}}>
+                    <img src={Mask4} style={{width:'100%',height:'100%'}} />
+                </div>
                 {/* Products Exhibit sections */}
-                <div style={{
+                {/* <div style={{
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
@@ -179,7 +187,7 @@ export default class Home extends React.Component {
                             </Container>
                         </Tab>
                     </Tabs>
-                </div>
+                </div> */}
             </div>
         )
     }
