@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alexa_branders/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/alexa_branders/static/js/main.5f6a5308.chunk.js",
-    "main.js.map": "/alexa_branders/static/js/main.5f6a5308.chunk.js.map",
+    "main.js": "/alexa_branders/static/js/main.5aaff6f2.chunk.js",
+    "main.js.map": "/alexa_branders/static/js/main.5aaff6f2.chunk.js.map",
     "runtime-main.js": "/alexa_branders/static/js/runtime-main.a02c84ed.js",
     "runtime-main.js.map": "/alexa_branders/static/js/runtime-main.a02c84ed.js.map",
     "static/css/2.69121389.chunk.css": "/alexa_branders/static/css/2.69121389.chunk.css",
     "static/js/2.9d1918cc.chunk.js": "/alexa_branders/static/js/2.9d1918cc.chunk.js",
     "static/js/2.9d1918cc.chunk.js.map": "/alexa_branders/static/js/2.9d1918cc.chunk.js.map",
     "index.html": "/alexa_branders/index.html",
-    "precache-manifest.105f9c661b77c5700c2898fad7aaac2e.js": "/alexa_branders/precache-manifest.105f9c661b77c5700c2898fad7aaac2e.js",
+    "precache-manifest.61d88fb6070544141a13949f371e94c7.js": "/alexa_branders/precache-manifest.61d88fb6070544141a13949f371e94c7.js",
     "service-worker.js": "/alexa_branders/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/alexa_branders/static/css/2.69121389.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/alexa_branders/static/css/main.5ecd60fb.chunk.css.map",
@@ -58,6 +58,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.9d1918cc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5f6a5308.chunk.js"
+    "static/js/main.5aaff6f2.chunk.js"
   ]
 }

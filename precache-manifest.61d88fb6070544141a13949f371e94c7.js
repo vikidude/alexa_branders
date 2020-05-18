@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f868cabf385ab291fbf7f7a4585ab355",
+    "revision": "aa0d9ffd0ee1cbf7cfa605ec032b70d4",
     "url": "/alexa_branders/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alexa_branders/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "8244a391e086428644b4",
+    "revision": "4775fb2e1abae4306052",
     "url": "/alexa_branders/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alexa_branders/static/js/2.9d1918cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8244a391e086428644b4",
-    "url": "/alexa_branders/static/js/main.5f6a5308.chunk.js"
+    "revision": "4775fb2e1abae4306052",
+    "url": "/alexa_branders/static/js/main.5aaff6f2.chunk.js"
   },
   {
     "revision": "c0797dc627360360ce83",

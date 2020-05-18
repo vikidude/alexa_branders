@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alexa_branders/precache-manifest.105f9c661b77c5700c2898fad7aaac2e.js"
+  "/alexa_branders/precache-manifest.61d88fb6070544141a13949f371e94c7.js"
 );
 
 self.addEventListener('message', (event) => {
